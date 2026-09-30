@@ -1,0 +1,3 @@
+/media/cpy/abc/Code/CPP/md_reader/CMakeFiles/rebuild_cache.dir
+/media/cpy/abc/Code/CPP/md_reader/CMakeFiles/edit_cache.dir
+/media/cpy/abc/Code/CPP/md_reader/CMakeFiles/md-renderer.dir

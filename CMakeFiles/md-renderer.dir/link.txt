@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/md-renderer.dir/src/main.cpp.o  -o md-renderer 

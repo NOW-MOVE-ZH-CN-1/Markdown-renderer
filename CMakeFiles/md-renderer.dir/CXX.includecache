@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cpy/abc/Code/CPP/md_reader/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+
